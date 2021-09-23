@@ -1,25 +1,6 @@
 # Library-Management-System
 Library Management system built on Python with command line interface,
-Default Login Information
-OWMER:
-Ownername:MissMaria 
-pass: oop
-
-All Admins Username and Pass:
-USERNAMES PASSWORDS
-Owais     123
-Anas      777
-Hasnain   444
-Asad      122
-Huzi      fat
-Muneeba   food12
-
-ALL STUDENTS INFO:
-ROLL NO  PASSWORD
-CS-19043 aspis
-CS-19045 hasnain
-CS-19050 hamza123
-
+See the 
 PROJECT INFO:
 consistS of three classes mainly i.e. Owner, Admin, Students.
 Basic Assumptions:
