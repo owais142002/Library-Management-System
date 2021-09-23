@@ -1,0 +1,6 @@
+1-('Artificial Intelligence: A Modern Approach','Stuart Russell','4th','Science',60)
+2-('Venice', 'Charles', '4th','crime', 45)
+3-('Alchemist', 'Paulo Cohello', '4th', 'fiction', 70)
+4-('David Copperfield', 'Charles Dickens', '7th', 'Love', 75)
+5-('Basic Electronics', 'A.G Edward', '9th', 'Science', 150)
+6-('Advanced Calculus', 'G.H Munro', '6th', 'Science', 150)

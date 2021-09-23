@@ -1,0 +1,4 @@
+1--['CS-19043', 'Venice', 'Charles', '4th', 'crime', 45, 'September 14, 2020', 7, 315]
+2--['CS-19043', 'Alchemist', 'Paulo Cohello', '4th', 'fiction', 70, 'September 14, 2020', 8, 560]
+3--['CS-19045', 'Advanced Calculus', 'G.H Munro', '6th', 'Science', 150, 'September 14, 2020', 7, 1050]
+4--['CS-19045', 'David Copperfield', 'Charles Dickens', '7th', 'Love', 75, 'September 14, 2020', 6, 450]
